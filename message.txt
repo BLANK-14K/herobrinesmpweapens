@@ -1,5 +1,5 @@
 &8&m--------------------------------
-&b&lXWEAPENS V1
-&fThis server uses &bCustom Weapons&f.
+&b&lX WEAPENS V1
+&fThis server uses &bXWeapons&f.
 &7Made by &fAimBlank
 &8&m--------------------------------
