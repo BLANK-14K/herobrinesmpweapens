@@ -1,4 +1,4 @@
 &8&m------------------------
-&b&lPLUGIN UPDATE
+&b&lPLUGIN UPDATE v2
 &fWelcome! This is a test message.
 &8&m------------------------
