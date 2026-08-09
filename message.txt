@@ -1,4 +1,5 @@
-&8&m------------------------
-&b&lPLUGIN UPDATE v2
-&fWelcome! This is a test message.
-&8&m------------------------
+&8&m--------------------------------
+&b&lHEROBRINE SMP WEAPONS V1
+&fThis server uses &bHerobrine SMP Weapons&f.
+&7Made by &fAimBlank
+&8&m--------------------------------
